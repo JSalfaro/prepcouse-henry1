@@ -1,2 +1,1 @@
-# prepcouse-henry1
-repositorio de prueba m2
+prueba de como creaar repositorio y clonarlo desde github a mi computadora
